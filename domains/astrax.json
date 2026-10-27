@@ -10,8 +10,8 @@
   },
   "record": {
     "NS": [
-      "ns1.desec.io",
-      "ns2.desec.org"
+      "ns2.falixnodes.net",
+      "ns8.falixnodes.net"
     ]
   },
   "proxy": false
